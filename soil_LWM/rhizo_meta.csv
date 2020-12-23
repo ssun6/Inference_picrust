@@ -1,0 +1,31 @@
+﻿Sample,Cultivar,Soil Type
+RTP1,IAC Milenio,ADE - Rhiz
+RTP2,IAC Milenio,ADE – Rhiz
+RTP3,IAC Milenio,ADE – Rhiz
+RTP4,IAC Imperador,ADE – Rhiz
+RTP5,IAC Imperador,ADE – Rhiz
+RTP6,IAC Imperador,ADE – Rhiz
+RTP7,BRS Estilo,ADE – Rhiz
+RTP8,BRS Estilo,ADE – Rhiz
+RTP9,BRS Estilo,ADE – Rhiz
+RTP10,IAC Alvorada,ADE – Rhiz
+RTP11,IAC Alvorada,ADE – Rhiz
+RTP12,IAC Alvorada,ADE – Rhiz
+BulkTP1,Soil,ADE - Soil
+BulkTP2,Soil,ADE – Soil
+BulkTP3,Soil,ADE – Soil
+RAG1,IAC Milenio,AGR - Rhiz
+RAG2,IAC Milenio,AGR – Rhiz
+RAG3,IAC Milenio,AGR – Rhiz
+RAG4,IAC Imperador,AGR – Rhiz
+RAG5,IAC Imperador,AGR – Rhiz
+RAG6,IAC Imperador,AGR – Rhiz
+RAG7,BRS Estilo,AGR – Rhiz
+RAG8,BRS Estilo,AGR – Rhiz
+RAG9,BRS Estilo,AGR – Rhiz
+RAG10,IAC Alvorada,AGR – Rhiz
+RAG11,IAC Alvorada,AGR – Rhiz
+RAG12,IAC Alvorada,AGR – Rhiz
+BulkRAG1,Soil,AGR – Soil
+BulkRAG2,Soil,AGR – Soil
+BulkRAG3,Soil,AGR – Soil
